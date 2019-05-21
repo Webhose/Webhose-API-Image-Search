@@ -56,8 +56,8 @@ You can install from source:
 
 ``` bash
 
-    $ git clone https://github.com/Webhose/webhoseio-python
-    $ cd webhoseio-python
+    $ git clone https://github.com/Webhose/webhose-api-image-search
+    $ cd webhose-api-image-search
     $ python setup.py install
     
  ```
