@@ -1,0 +1,3 @@
+include *.md
+include LICENSE
+recursive-include webhose_api_image_search *.pyc
