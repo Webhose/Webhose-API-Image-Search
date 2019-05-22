@@ -2,6 +2,10 @@ Webhose API Image Search
 ============================
 #### Access image metadata and labels using the Webhose API image recognition feature
 
+#### Demo Page:
+https://webhose.io/cool-stuff/visual-search-demo/
+
+
 ##### Basic Example:
 ```python
 
